@@ -236,4 +236,4 @@ This repository serves as the official landing page for Skype Video Call Recorde
 **Get the most recent version of Skype Video Call Recorder today!**
 
 ---
-**Last updated:** 2026-10-07 20:17:56 UTC
+**Last updated:** 2026-10-08 00:32:49 UTC
